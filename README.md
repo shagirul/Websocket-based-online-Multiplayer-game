@@ -33,7 +33,7 @@ This project is **functional** and **playable**. Key features like cell movement
 
 ## Repositories
 
-- **Frontend Repo**: [Agar.io Frontend](https://github.com/shagirul/agar.io_front-end)
+- **Frontend Repo**: [Agar.io Frontend](https://github.com/shagirul/agar)
 - **Backend Repo**: [Agar.io Backend](https://github.com/shagirul/agar.io_backend)
 
 ---
